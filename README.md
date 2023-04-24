@@ -1,0 +1,1 @@
+# coubis-s3classtest
